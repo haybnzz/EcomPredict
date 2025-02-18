@@ -40,7 +40,10 @@ python data_read.py
 python csv_to_model.py
 python heatmap.py`
 
+## EcomPredict Resources
 
+- **Datasets:** [EcomPredict Data](https://huggingface.co/datasets/haydenbanz/EcomPredict-data)
+- **Models:** [EcomPredict Models](https://huggingface.co/haydenbanz/EcomPredict/tree/main)
 
 # EcomPredict Project Documentation
 
