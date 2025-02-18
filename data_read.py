@@ -4,5 +4,5 @@ import pandas as pd
 file_path = "data.csv"
 df = pd.read_csv(file_path)
 
-# Display basic info and first few rows
+# Display basic info and first few rowss
 df.info(), df.head()
