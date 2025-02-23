@@ -9,6 +9,8 @@
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/haybnzz/EcomPredict?style=for-the-badge&logo=github&logoSize=auto&labelColor=4B4453&color=073B4C)](https://github.com/haybnzz/EcomPredict/pulls)
 [![GitHub Stars](https://img.shields.io/github/stars/haybnzz/EcomPredict?style=for-the-badge&logo=github&logoSize=auto&labelColor=4B4453&color=EF476F)](https://github.com/haybnzz/EcomPredict/stargazers)
 ![Profile Views](https://komarev.com/ghpvc/?username=haybnzz&style=for-the-badge&logo=github&logoSize=auto&labelColor=4B4453&color=FFD166)
+[![Hugging Face Datasets](https://img.shields.io/badge/HuggingFace-Datasets-FFB000?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/datasets/haydenbanz/EcomPredict-data)  
+[![Hugging Face Model](https://img.shields.io/badge/HuggingFace-Model-19A974?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/haydenbanz/EcomPredict)
 
 
 >"EcomPredict" seems to be a project related to predicting e-commerce customer behavior using machine learning or data analysis techniques. Based on previous chats, it could involve analyzing customer data to predict future buying patterns, preferences, or behaviors. The goal might be to enhance marketing strategies, improve product recommendations, or optimize customer engagement for an e-commerce platform.
