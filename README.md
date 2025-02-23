@@ -28,7 +28,7 @@
 
 # Installation Guide for EcomPredict
 
-## Step 1: Fork the Repository
+## Step 1: Fork the Repository 
 1. Go to the [EcomPredict GitHub repository](https://github.com/haybnzz/EcomPredict).
 2. Click on the "Fork" button in the upper right corner of the page to create a copy of the repository under your own GitHub account.
 
