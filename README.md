@@ -3,7 +3,9 @@
 ![EcomPredict Logo](https://raw.githubusercontent.com/haybnzz/EcomPredict/refs/heads/main/images/EcomPredict.png)
 
 [![Python - EcomPredict](https://img.shields.io/static/v1?label=Python&message=EcomPredict&style=for-the-badge&logo=python&logoSize=auto&labelColor=4B4453&color=FF6F61)](https://github.com/haybnzz/EcomPredict)
-[![MIT License](https://img.shields.io/static/v1?label=License&message=MIT&style=for-the-badge&logo=open-source-initiative&logoSize=auto&labelColor=4B4453&color=FFD166)](https://github.com/haybnzz/EcomPredict/blob/main/LICENSE)
+[![CC BY-NC 4.0 License](https://img.shields.io/static/v1?label=License&message=CC%20BY-NC%204.0&style=for-the-badge&logo=creative-commons&logoSize=auto&labelColor=4B4453&color=FFD166)](https://github.com/haybnzz/EmoSense/blob/main/LICENSE)
+[![CC BY-NC 4.0 License](https://img.shields.io/static/v1?label=License&message=CC%20BY-NC%204.0&style=for-the-badge&logo=creative-commons&logoSize=auto&labelColor=4B4453&color=FFD166)](https://github.com/haybnzz/EmoSense/blob/main/LICENSE)
+
 [![Python Version](https://img.shields.io/static/v1?label=Python&message=3.6%2B&style=for-the-badge&logo=python&logoSize=auto&labelColor=4B4453&color=06D6A0)](https://www.python.org/downloads/)
 [![GitHub Issues](https://img.shields.io/github/issues/haybnzz/EcomPredict?style=for-the-badge&logo=github&logoSize=auto&labelColor=4B4453&color=118AB2)](https://github.com/haybnzz/EcomPredict/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/haybnzz/EcomPredict?style=for-the-badge&logo=github&logoSize=auto&labelColor=4B4453&color=073B4C)](https://github.com/haybnzz/EcomPredict/pulls)
